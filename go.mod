@@ -29,7 +29,7 @@ require (
 	github.com/hashicorp/terraform-plugin-framework v0.11.1
 	github.com/hashicorp/terraform-plugin-framework-validators v0.5.0
 	github.com/hashicorp/terraform-plugin-go v0.14.0
-	github.com/hashicorp/terraform-plugin-log v0.7.0
+	github.com/hashicorp/terraform-plugin-log v0.9.0
 	github.com/hashicorp/terraform-plugin-mux v0.7.0
 	github.com/hashicorp/terraform-plugin-sdk/v2 v2.22.0
 	github.com/mattbaird/jsonpatch v0.0.0-20200820163806-098863c1fc24
@@ -65,7 +65,7 @@ require (
 	github.com/golang/protobuf v1.5.2 // indirect
 	github.com/hashicorp/errwrap v1.1.0 // indirect
 	github.com/hashicorp/go-checkpoint v0.5.0 // indirect
-	github.com/hashicorp/go-hclog v1.2.1 // indirect
+	github.com/hashicorp/go-hclog v1.5.0 // indirect
 	github.com/hashicorp/go-plugin v1.4.4 // indirect
 	github.com/hashicorp/go-uuid v1.0.3 // indirect
 	github.com/hashicorp/hc-install v0.4.0 // indirect
